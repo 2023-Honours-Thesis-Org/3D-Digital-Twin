@@ -1,0 +1,58 @@
+Dataset Information:
+
+Dataset Name: Copernicus GLO-30 Digital Elevation Model(COP30)
+
+Dataset Acknowledgement: 
+Data have been provided by Sinergise via a public AWS S3 bucket that can be accessed here.
+
+Data Access Acknowledgement: This material is based on [data, processing] services provided by the OpenTopography Facility with support from the National Science Foundation under NSF Award Numbers 1833703, 1833643, and 1833632.
+
+Dataset Citation: European Space Agency, Sinergise (2021).  <i>Copernicus Global Digital Elevation Model</i>.  Distributed by OpenTopography.  https://doi.org/10.5069/G9028PQB. Accessed: 2023-07-18
+
+Horizontal Coordinates: WGS84 [EPSG: 4326]
+Vertical Coordinates: EGM2008 [EPSG: 3855]
+
+Job Description:
+	User:[Guest] h.suresh@uqconnect.edu.au
+	Job ID: rt1689653294416
+	Title: ATCA Terrain
+	Description:
+
+Job Processing Result:
+	Submission Time: 2023-07-18 04:08:14
+	Completion Time: 2023-07-18 04:08:35
+	Duration: 21 seconds
+	Status: Done
+
+Data Selection Coordinates: 
+	Xmin: 149.51791763305664
+	Xmax: 149.58229064941406
+	Ymin: -30.327723464896117
+	Ymax: -30.300456437926968
+
+Input & Output Options: 
+	Data Type: Global
+	Output Format: GeoTiff
+	Layer Type: 
+
+Raster Visualization:
+	Dem types: Hillshade: Yes,  Color Relief: Yes,  Color Hillshade: No,  Slope: No, Aspect: No, Roughness: No
+	Color Map: terrain
+	Multidirectional: Yes
+	KMZ Option: Yes
+	Output Format: img
+	Vertical Exaggeration: 1
+
+Canopy Height Model:
+	Enable Canopy Height Model: No
+
+Hydrologic Terrain Analysis (TauDEM) Products:
+	Hydrologically correct DEM with pits filled: No
+	D-Infinity Flow Direction : No
+	D-Infinity Specific Catchment Area: No
+	Topographic Wetness Index: No
+	D8 Flow Direction: No
+	tauDemD8FlowDir: No
+
+Contour Lines:
+	Generate contour lines: No
