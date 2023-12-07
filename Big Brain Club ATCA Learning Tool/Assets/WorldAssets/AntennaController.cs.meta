@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 1a2316e00639f6347b7f153f7c01e4c6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - antennaPrefab: {fileID: 919132149155446097, guid: 36eab05d090726947a0d1c62b6d8a32a, type: 3}
+  executionOrder: -20
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
